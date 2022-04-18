@@ -1,0 +1,17 @@
+.clock {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    /* margin: 5em; */
+    border: 4px solid #48d1cc;
+    background-color: #17A2B8;
+    color: #eaf5fc;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.clock-block {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
